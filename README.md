@@ -1,11 +1,15 @@
 ## Ali社区
 
 ## 资料
-https://spring.io/guides
-https://elasticsearch.cn
+[Spring 文档](https://spring.io/guides)
+[Spring Web文档](https://spring.io/guides/gs/serving-web-content/)
+[Github OAuth文档](https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/)
+[BootStrap文档](https://v3.bootcss.com/css/)
+[ES社区](https://elasticsearch.cn)
 
 ## 工具
-https://git-scm.com/download
+[Git](https://git-scm.com/download)
+[Visual Paradigm](https://www.visual-paradigm.com)
 
 ## git命令
 利用ssh可以不用输入用户名密码。详见[如何生成SSH](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)，
@@ -28,3 +32,7 @@ git commit --amend --no-edit
 ```git
 git push
 ```
+
+## 利用Github登录
+
+![github登录](https://www.lijingxin.top/upload/2020/3/image-2aeb9e36fe64471b81e18656c6968aed.png)
