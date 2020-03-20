@@ -41,6 +41,16 @@ git push
 * ctrl+shift+f12 最大化工作区
 * ctrl+alt+L 格式化代码
 * ctrl+shift+N 快速跳转
+* ctrl+e 返回上一个编辑的页面
 
 ## 一些注意的
 当调用的方法需要传递很多参数时，最好定义一个对象。
+
+### git无法推送
+https://blog.csdn.net/qq_36181310/article/details/88760623
+注意一定要在bash.exe中输入ssh -T git@github.com
+
+## Session和Cookie
+Cookie相当于银行
+可以再Chrome-Application-Storage-Cookies查看当前网站Cookies
+Session相当于银行卡
