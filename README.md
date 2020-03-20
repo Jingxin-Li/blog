@@ -36,3 +36,11 @@ git push
 ## 利用Github登录
 
 ![github登录](https://www.lijingxin.top/upload/2020/3/image-2aeb9e36fe64471b81e18656c6968aed.png)
+
+## 常用快捷键
+* ctrl+shift+f12 最大化工作区
+* ctrl+alt+L 格式化代码
+* ctrl+shift+N 快速跳转
+
+## 一些注意的
+当调用的方法需要传递很多参数时，最好定义一个对象。
