@@ -13,4 +13,7 @@ import top.lijingxin.blog.model.User;
 public interface UserMapper {
     @Insert("insert into user(name,account_id,token,gmt_create,gmt_modified) values (#{name},#{accountId},#{token},#{gmtCreate},#{gmtModified})")
     void insert(User user);
+
+    @Select("select name,account_id,token,gmt_create,gmt_modified from user where token = #{token}")
+    User getByToken(@Param("token")String token);
 }
